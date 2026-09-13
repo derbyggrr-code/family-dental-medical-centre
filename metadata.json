@@ -1,0 +1,6 @@
+{
+  "name": "Family Dental and Medical Centre",
+  "description": "Premium modern dental clinic private demonstration website for Family Dental and Medical Centre in Kirari, Delhi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
